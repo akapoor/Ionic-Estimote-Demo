@@ -21,7 +21,7 @@
   Make sure to test your app on a device as simulators won't detect the Estimotes.
   
   To get list of installed emulators:
-    cordova emulate ios --list
+        cordova emulate ios --list
     
   To run in specific ios emulator:
-    cordova emulate ios --target="iPhone-6s, 9.3"
+        cordova emulate ios --target="iPhone-6s, 9.3"
